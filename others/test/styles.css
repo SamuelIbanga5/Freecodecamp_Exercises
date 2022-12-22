@@ -1,0 +1,45 @@
+/* .container{
+    width: 50%;
+    margin: auto;
+} */
+
+body{
+    padding-top: 30px;
+}
+
+div{
+    display: inline-block;
+    margin:  auto;
+}
+
+.box1{
+    max-width: 300px;
+    height: 100px;
+    background-color: red;
+    margin: auto;
+}
+
+.box2{
+    margin: 30px auto;
+    max-width: 300px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box3{
+    margin: 30px auto;
+    max-width: 300px;
+    height: 100px;
+    background-color: rgb(51, 3, 3);
+}
+
+.box4{
+    margin: 30px auto;
+    max-width: 300px;
+    height: 100px;
+    background-color: rgb(6, 6, 59);
+}
+
+li{
+    display: inline;
+}
